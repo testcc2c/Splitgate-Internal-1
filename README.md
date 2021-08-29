@@ -1,1 +1,5 @@
-# splitgate-internal
+Outdated:
+
+Update: Offsets/Sigs
+
+Uses Steamhook
